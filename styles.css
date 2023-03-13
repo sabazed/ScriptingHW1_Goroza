@@ -1,0 +1,22 @@
+body {
+    width: 60%;
+    margin: 0 auto 5rem auto;
+}
+
+#main-title {
+    text-align: center;
+    color: red;
+}
+
+#section-title {
+    font-style: italic;
+}
+
+#ord-list {
+    font-size: 0.75em;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
